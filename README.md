@@ -3,13 +3,14 @@
 <h3 align="center">Somewhere between hello world and ‘this is it!’ 🌍❤️</h3>
 <img align="right" alt="coding" width="200" src="./tenor.gif"/>
 
-- 🎓 Computer Science @ KIIT — **because apparently Googling errors is a degree now*
+- 🎓**Computer Science @ KIIT** — because apparently Googling errors is a degree now
 
 - 🌱 I’m currently learning **ML & Frontend**
 
-- 🧠 Trying to make sense of Deep Learning & LLMs **( More like deep confusion but I'm hanging in there)**
+- 🧠 **Trying to make sense of Deep Learning & LLMs**
+  ( More like deep confusion but I'm hanging in there)
   
--  🖌️ Figma on the side — **design is half the fun**
+-  🖌️ **Figma on the side** — designing is half the fun
 
 -  🎨👀 secretly admiring Blender & Procreate from afar 
 
