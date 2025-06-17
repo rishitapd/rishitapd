@@ -5,8 +5,6 @@
 
 - 🎓**Computer Science @ KIIT** — because apparently Googling errors is a degree now
 
-- 🌱 I’m currently learning **ML & Frontend**
-
 - 🧠 **Trying to make sense of Deep Learning & LLMs**
   ( More like deep confusion but I'm hanging in there)
   
