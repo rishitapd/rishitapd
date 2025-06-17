@@ -5,7 +5,7 @@
 
 - 🎓**Computer Science @ KIIT** — because apparently Googling errors is a degree now
 
-- 🧠 **Trying to make sense of Deep Learning & LLMs**
+- 🧠 **Trying to make sense of ML,NLP,Deep Learning & LLMs**
   ( More like deep confusion but I'm hanging in there)
   
 -  🖌️ **Figma on the side** — designing is half the fun
